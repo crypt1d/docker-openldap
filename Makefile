@@ -1,5 +1,5 @@
-NAME = osixia/openldap
-VERSION = 1.1.6
+NAME = crypt1d/slapd-base
+VERSION = 0.0.1
 
 .PHONY: all build build-nocache test tag_latest release
 

@@ -1,0 +1,4 @@
+dn: ou=users,{{ LDAP_BASE_DN }}
+changetype: add
+objectClass: organizationalUnit
+ou: users
